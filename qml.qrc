@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainToolBar.qml</file>
+        <file>VideoPage.qml</file>
+        <file>font/Technology-Bold.ttf</file>
+        <file>Images/activity.gif</file>
+        <file>Images/loader.gif</file>
+        <file>Images/loading-gif.gif</file>
+        <file>Images/activity.png</file>
+        <file>Images/camera.png</file>
+        <file>Images/danterimg.jpg</file>
+        <file>Images/default_sztaki.png</file>
+        <file>Images/no_camera.png</file>
+        <file>Images/no_video.png</file>
+        <file>Images/arrow.jpg</file>
+        <file>Images/proba.png</file>
+        <file>Images/pulse.png</file>
+        <file>Images/record_black.png</file>
+        <file>Images/record_red.png</file>
+        <file>Images/save.png</file>
+        <file>Images/settings.png</file>
+        <file>Images/staticimg.png</file>
+        <file>Images/sztaki_new.jpg</file>
+        <file>Images/video-record.gif</file>
+        <file>Images/video.png</file>
+        <file>Images/landmark.png</file>
+        <file>FooterToolbar.qml</file>
+        <file>PulseDisplay.qml</file>
+    </qresource>
+</RCC>
